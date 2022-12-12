@@ -60,6 +60,7 @@
 
 - Programming Languages: C++ (Basic), Python
 - Libraries: python-telegram-bot, NumPy, Pandas, Matplotlib
+- SQL: SQLite, PostgreSQL
 - Frameworks: aiogram
 - Packages: Beautiful Soup
 - OS: Windows, Linux
