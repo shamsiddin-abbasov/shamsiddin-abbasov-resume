@@ -27,12 +27,12 @@
 **Mohirdev, 2022 Sep - 2023 Jan**\
 **Data Science and AI**
 
-Learn
+- Studied NumPy, Pandas, PostgreSQL technologies in data analysis module and implemented small projects based on them
 
 **DataCamp, 2022 Sep - 2023 Jan**\
 **Data Science with Python**
 
-Learn
+- In Introduction to Python course, learned about powerful ways to store and manipulate data, and helpful data science tools to begin conducting 
 
 ## VOLUNTEERING
 
@@ -51,9 +51,8 @@ Learn
 
 **Tech Skills**
 
-- C++ (Basic)
-- Python
-- BeautifulSoup
-- NumPy
-- Pandas
-- Matplotlib
+- Programming Languages: C++ (Basic), Python
+- Libraries: python-telegram-bot, NumPy, Pandas, Matplotlib
+- Frameworks: aiogram
+- Packages: Beautiful Soup
+- OS: Windows, Linux
