@@ -22,6 +22,13 @@
 
 - find an algorithm for the problem and explain it to the programmers
 
+**Youth Union of Uzbekistan, 2019 - 2020**\
+**Angren City Council Captain**
+
+- Meeting with school captains every week under the Angren Youth Union Council
+- Organization of events on every holiday
+- Organization of new projects and their implementation
+
 ## EDUCATION
 
 **Mohirdev, 2022 Sep - 2023 Jan**\
