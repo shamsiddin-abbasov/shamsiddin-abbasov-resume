@@ -2,7 +2,7 @@
 
 ### Data Analyst | Data Scientist
 
-[GitHub-1](https://github.com/shamsiddin-abbasov/) | [GitHub-2](https://github.com/abbasovsh/) | [LinkedIn](https://linkedin.com/in/shamsiddin-abbasov) | [Email](mailto:mrshamsiddinabbasov@gmail.com) | [Medium](https://shamsiddinabbasov.medium.com/)
+[GitHub-1](https://github.com/shamsiddin-abbasov/) | [GitHub-2](https://github.com/abbasovsh/) | [LinkedIn](https://linkedin.com/in/shamsiddin-abbasov) | [Email](mailto:mrshamsiddinabbasov@gmail.com) | [Medium](https://shamsiddinabbasov.medium.com/) | (Kaggle)[https://www.kaggle.com/shamsiddinabbasov]
 
 ## EXPERIENCE
 
