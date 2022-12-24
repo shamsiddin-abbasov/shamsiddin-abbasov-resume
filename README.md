@@ -6,10 +6,18 @@
 
 ## EXPERIENCE
 
+**MOHIRFEST-2022 hackathon, 2022 Nov - 2022 Dec**\
+**Final Participant**
+
 **AGRICULTURE-2022 hackathon, 2022 Nov**\
 **Final Participant**
 
 - Our team project was Croppy. It's a crop recommendation project
+
+**Darman Kitab, 2022 Mart - 2022 August**\
+**Sales Manager**
+
+- Liaising with customers and recommending books to them.
 
 **Moonshot Pirates, 2022 Mart - Present**\
 **Member of Moonshot Pirates**
@@ -51,6 +59,7 @@
 **Soft Skills**
 
 - Adaptability
+- Project Management
 - Problem-Solving
 - Communication
 - Teamwork
