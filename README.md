@@ -9,6 +9,9 @@
 **MOHIRFEST-2022 hackathon, 2022 Nov - 2022 Dec**\
 **Final Participant**
 
+- team lead Phantoms team
+- Our team project was BookShare. It helps book lovers share their books with each other
+
 **AGRICULTURE-2022 hackathon, 2022 Nov**\
 **Final Participant**
 
