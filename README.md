@@ -18,7 +18,7 @@
 - Our team project was Croppy. It's a crop recommendation project
 
 **Darman Kitab, 2022 Mart - 2022 August**\
-**Manager & Sales Manager**
+**Co-Founder & Manager & Sales Manager**
 
 - Liaising with customers and recommending books to them.
 - Future Planning
