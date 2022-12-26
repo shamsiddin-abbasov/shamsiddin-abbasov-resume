@@ -18,9 +18,11 @@
 - Our team project was Croppy. It's a crop recommendation project
 
 **Darman Kitab, 2022 Mart - 2022 August**\
-**Sales Manager**
+**Manager & Sales Manager**
 
 - Liaising with customers and recommending books to them.
+- Future Planning
+- attract new innovations to the project
 
 **Moonshot Pirates, 2022 Mart - Present**\
 **Member of Moonshot Pirates**
