@@ -58,7 +58,7 @@
 
 ## VOLUNTEERING
 
-**TedXNavoiStreet, 2022 Sep - 2023 Jan**\
+**TedXNavoiStreet, 2022 Sep - 2022 Nov**\
 **Volunteer Staff**
 
 ## SKILLS
