@@ -47,7 +47,9 @@
 **Mohirdev, 2022 Sep - 2023 Jan**\
 **Data Science and AI**
 
-- Studied NumPy, Pandas, PostgreSQL technologies in data analysis module and implemented small projects based on them
+- Studied NumPy and Pandas technologies in data analysis module and implemented small projects based on them.
+- In Data Processing section, learned PostgreSQL & SQLite, validation, sorting, summarization, aggregation, analysis, reporting and classification.
+- Learned the types of graphs and how to visualize data using Matplotlib, Seaborn and Lux libraries
 
 **DataCamp, 2022 Sep - 2023 Jan**\
 **Data Science with Python**
@@ -73,7 +75,7 @@
 **Tech Skills**
 
 - Programming Languages: C++ (Basic), Python
-- Libraries: python-telegram-bot, NumPy, Pandas, Matplotlib
+- Libraries: python-telegram-bot, NumPy, Pandas, Matplotlib, Lux
 - SQL: SQLite, PostgreSQL
 - Frameworks: aiogram, Django(Basic)
 - Packages: Beautiful Soup
