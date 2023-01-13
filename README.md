@@ -74,8 +74,9 @@
 
 **Tech Skills**
 
+- Data Analysis, Machine Learning
 - Programming Languages: C++ (Basic), Python
-- Libraries: python-telegram-bot, NumPy, Pandas, Matplotlib, Lux
+- Libraries: python-telegram-bot, NumPy, Pandas, Matplotlib, Seaborn, Lux, scikit-learn
 - SQL: SQLite, PostgreSQL
 - Frameworks: aiogram, Django(Basic)
 - Packages: Beautiful Soup
